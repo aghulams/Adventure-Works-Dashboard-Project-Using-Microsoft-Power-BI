@@ -1,27 +1,31 @@
-## Adventure Works Dashboard Project using Microsoft Power BI
+As part of the Power BI certification course offered on Udemy by the Maven Analytics team, I undertook a project with the goal of honing my skills with Microsoft Power BI. This project involved creating a comprehensive dashboard for a company specializing in the sale of bicycles and bicycle accessories.
 
-Welcome to my Adventure Works Dashboard Project! In this project, I leveraged Microsoft Power BI to create a comprehensive dashboard for a company specializing in the sale of bicycles and bicycle accessories.
+The project encompasses the development of four distinct dashboards:
 
-### Dashboards Overview
+1. **Executive Dashboard:** Strategically designed for executive-level stakeholders, providing a high-level overview of crucial performance indicators.
 
-1. **Executive Dashboard:** Tailored for executive-level stakeholders, providing a high-level overview of key performance indicators (KPIs).
+   ![Executive Dashboard](link_to_executive_dashboard_image)
 
-2. **Map Dashboard:** Visualizes geospatial information to enhance understanding of geographical aspects related to the business.
+2. **Map Dashboard:** Offers a geospatial perspective, visualizing key geographical information relevant to the business.
 
-3. **Product Detail Dashboard:** Offers in-depth insights into various products, including detailed product information to assist in strategic decision-making.
+   ![Map Dashboard](link_to_map_dashboard_image)
 
-4. **Customer Detail Dashboard:** Contains a wealth of customer information, aiding in customer-centric analysis and decision-making.
+3. **Product Detail Dashboard:** Delivers in-depth insights into product specifics, offering detailed information crucial for strategic decision-making.
 
-### Key Metrics
+   ![Product Detail Dashboard](link_to_product_detail_dashboard_image)
 
-The project focuses on essential KPI metrics, including:
+4. **Customer Detail Dashboard:** Houses a wealth of customer information, facilitating customer-centric analysis and decision-making.
 
-- **Total Revenue:** Sum of revenue generated from Adventure Works products.
-  
-- **Total Profit:** Cumulative profit derived from the company's product sales.
+   ![Customer Detail Dashboard](link_to_customer_detail_dashboard_image)
 
-- **Total Orders:** A comprehensive count of all orders placed.
+Key performance indicators (KPIs) such as total revenue, total profit, total orders, and total return from Adventure Works product sales were instrumental in gauging project success.
 
-- **Total Return:** Highlights the returns incurred from Adventure Works product sales.
+The project unfolded through three main stages:
 
-Feel free to explore the project and gain insights into the dynamic world of Adventure Works through these dashboards!
+1. **Connecting and Shaping Data:** Involving the importation and transformation of data to suit project requirements.
+
+2. **Creating Calculated Fields and DAX Measures:** Utilizing Data Analysis Expressions (DAX) to formulate calculated fields and measures for robust data analysis.
+
+3. **Visualizing Data with Reports:** Employing Power BI's visualization capabilities to create insightful and engaging reports.
+
+Special thanks to my mentors, Chris Dutton, Aaron Parry, and the entire Maven Analytics team, whose guidance played a pivotal role in shaping this project.
